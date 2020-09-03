@@ -1,0 +1,28 @@
+{
+  "name": "module-helpers",
+  "version": "1.0.0",
+  "description": "This project aims to include several types of validations and formats that are useful in a JavaScript / TypeScript project",
+  "main": "build/index.js",
+  "scripts": {
+    "test": "test"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/allcantara/module-helpers.git"
+  },
+  "keywords": [
+    "JavaScript",
+    "TypeScript",
+    "Helper",
+    "NodeJS"
+  ],
+  "author": "allcantara <brunoalcantarajc@gmail.com>",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/allcantara/module-helpers/issues"
+  },
+  "homepage": "https://github.com/allcantara/module-helpers#readme",
+  "devDependencies": {
+    "typescript": "^4.0.2"
+  }
+}
